@@ -3,7 +3,7 @@
 # Mô tả:
 - Mã nguồn này thực hiện việc xây dựng một demo cơ bản về xác định các điểm Facial Landmark.  
 - Hai thư viện chính được sử dụng là dlib và opencv-python. Trong đó:
-- - dlib: thư viện hỗ trợ xác định Facial Landmark.  
+-- dlib: thư viện hỗ trợ xác định Facial Landmark.  
 - - opencv-python: dùng để xác định khuôn mặt.
 
 # Tổ chức:
